@@ -45,6 +45,19 @@ Description
  * Magnet
  
  ![캡처9](https://user-images.githubusercontent.com/86776597/211947287-5d784b53-cc47-4600-8abe-cd80624a56b9.PNG)
+ 
+ DevelopMent
+ ============================
+ * Unity 2019.4.38f1
+ * Copied Dragon Flight Game -> <https://df.floor.line.games/kr/main>
+ * Resources and Sound -> <https://df.floor.line.games/kr/main>
+ 
+ Description
+ ------------------------------
+ * Used unity 2D to develop a game
+ * Used resources and idea from <https://df.floor.line.games/kr/main>
+ 
+ 
 
  
 
