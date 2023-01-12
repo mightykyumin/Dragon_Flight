@@ -57,7 +57,11 @@ Description
  * Used unity 2D to develop a game
  * Used resources and idea from <https://df.floor.line.games/kr/main>
  
- 
+ How to Play
+ -------------------------------
+ 1. Drag mouse to control the character
+ 2. Try not to hit monster with the character
+ 3. Used Item to kill the Monsters
 
  
 
